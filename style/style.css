@@ -168,6 +168,18 @@ body {
 .attendees_wrapper {
     background-color: #0a0a3f;
 }
+.attendees_wrapper .attendees_col:nth-child(1) *{
+    color: #94c8a1 !important;
+}
+.attendees_wrapper .attendees_col:nth-child(2) * {
+    color: #d3b4b4;
+}
+.attendees_wrapper .attendees_col:nth-child(3) * {
+    color: #cfdfb7;
+}
+.attendees_wrapper .attendees_col:nth-child(4) * {
+    color: #9dd4a7;
+}
 .attendees_row {
     align-items: center;
     justify-content: center;
